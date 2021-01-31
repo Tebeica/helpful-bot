@@ -8,3 +8,4 @@ Commands:\
 --_fnf_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    for a Fast&Furious GIF\
 --_euro_&nbsp;&nbsp;&nbsp;&nbsp;   european market vehicle \
 --_import_&nbsp;&nbsp; japanese market vehicle\
+The bot will also send automated messages with reminders to drink water every few hours!:)
