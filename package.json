@@ -1,0 +1,22 @@
+{
+  "name": "helpfulbot",
+  "version": "1.0.0",
+  "description": "A helpful bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node .",
+    "watch": "npm run start --watch"
+  },
+  "author": "HelpfulBot",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^12.0.1",
+    "fs": "0.0.1-security",
+    "node-schedule": "^1.3.2",
+    "opusscript": "0.0.7",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "license": "ISC"
+}
